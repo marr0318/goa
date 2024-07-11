@@ -1,6 +1,8 @@
-name="mariami"
-surname="gelashvili"
-age=12
-height=163
-
-print("me var" +" " + name + " " + surname + " " + "wlovanebit var" + " " + str(age) + " " + "simaglit var" + " "+ str(height))
+print(age
+#ამ წინადადებას სჭირდება ბრჩხილი
+age="12"
+#ამ წინადადებას არ ჭირდება ბრჭყალები
+print 10+25
+#ამ წინადადებას სჭირდება ბრჩხილი
+name mari
+#ამ წინადადებას სჭირდება ტოლობა და ბრჭყალები
